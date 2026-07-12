@@ -14,6 +14,21 @@ This project is a Fraud Call Detection System that uses machine learning to clas
 
 🛠 Deployment on Render – Hosted as a web service for easy access.
 
+## 📂 Project Structure
+
+```text
+fraud-call-detection
+│
+├── app.py
+├── fraud_detection.py
+├── predict_call.py
+├── fraud_call_model.pkl
+├── fraud_calls.csv
+├── index.html
+├── style.css
+└── README.md
+```
+
 
 🛠 Installation & Setup
 
@@ -49,13 +64,30 @@ Then, open http://127.0.0.1:5000/ in your browser.
 
 
 
-🖥 Technologies Used
+## 🛠️ Technologies Used
 
-Python (Flask, Pandas, Scikit-Learn)
+- Python
+- Flask
+- Scikit-Learn
+- Pandas
+- NumPy
+- HTML
+- CSS
 
-Machine Learning (Logistic Regression, Decision Trees)
+## 🔮 Future Enhancements
 
-HTML, CSS (Frontend UI)
+- Real-time Call Detection
+- Mobile Application
+- REST API Integration
+- Deep Learning Model
+- Cloud Deployment
+
+## 👩‍💻 Author
+
+**Meghana**
+
+GitHub:
+https://github.com/meghana-1703
 
 📜 License
 
